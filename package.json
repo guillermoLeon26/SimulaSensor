@@ -1,0 +1,11 @@
+{
+  "name": "envio-data-sensores",
+  "version": "1.0.0",
+  "description": "simulacion de envio de datos de sensor al servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "G",
+  "license": "MIT"
+}
